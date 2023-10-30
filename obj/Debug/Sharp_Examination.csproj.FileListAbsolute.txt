@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\Sharp_Examination\bin\Debug\Sharp_Examination.exe.config
+C:\Users\Admin\source\repos\Sharp_Examination\bin\Debug\Sharp_Examination.exe
+C:\Users\Admin\source\repos\Sharp_Examination\bin\Debug\Sharp_Examination.pdb
+C:\Users\Admin\source\repos\Sharp_Examination\obj\Debug\Sharp_Examination.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Sharp_Examination\obj\Debug\Sharp_Examination.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Sharp_Examination\obj\Debug\Sharp_Examination.exe
+C:\Users\Admin\source\repos\Sharp_Examination\obj\Debug\Sharp_Examination.pdb
